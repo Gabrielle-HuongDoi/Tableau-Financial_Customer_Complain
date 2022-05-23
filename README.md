@@ -6,7 +6,7 @@ mostly in the social section.
 
 This project only practice some skills in:
   - Create bar charts, line charts, pie chart...
-  - Join 2 table by the key column
+  - Join 2 tables by the key column
   - Dual axis
   - Aggregate functions
   - Simple US state map by xy-plane. (The Hex tile maps in tableau is presented in https://www.sirvizalot.com/)
